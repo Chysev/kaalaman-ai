@@ -49,10 +49,10 @@ Requires Higher Specs
 
 Low - Mid Specs
 
-- llama-2-7b-chat.Q8_0 [Download URL][Llama2_Q4]
-- codellama-7b.Q8_0 [Download URL][CodeLlama_Q4]
-- mistral-7b-instruct-v0.2.Q8_0 [Download URL][Mistral_Q4]
-- orca-2-7b.Q8_0.gguf [Download URL][Orca_Q4]
+- llama-2-7b-chat.Q4_0 [Download URL][Llama2_Q4]
+- codellama-7b.Q4_0 [Download URL][CodeLlama_Q4]
+- mistral-7b-instruct-v0.2.Q4_0 [Download URL][Mistral_Q4]
+- orca-2-7b.Q4_0.gguf [Download URL][Orca_Q4]
 
 <!-- Requires Higher Specs -->
 
