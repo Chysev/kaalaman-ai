@@ -17,8 +17,7 @@
     "next": "14.1.0",
     "react": "^18",
     "react-aiwriter": "^1.0.0",
-    "react-dom": "^18",
-    "swr": "^2.2.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
